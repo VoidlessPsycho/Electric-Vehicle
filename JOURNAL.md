@@ -1,6 +1,6 @@
 # Journal
 
-**Total Number of Entries: 43**
+**Total Number of Entries: 43** \
 **Total Time Spent: 93.5 hours**
 
 <hr>
