@@ -1,5 +1,10 @@
 # Journal
 
+**Total Number of Entries: 43**
+**Total Time Spent: 93.5 hours**
+
+<hr>
+
 ### September 10, 2025: Analyzing Rules
 I read through the guidelines for the Electric Vehicle event to figure out exactly what I had to do. The rules also included constraints on what I cannot do, such as limiting power to a maximum of 8 x AA Batteries for max of 12 V. \
 The challenge requires the vehicle to go from the start point to the end point in a set amount of time. For bonus points, it can go through a gap made by cans to the left. This track is illustrated in the image below: \
